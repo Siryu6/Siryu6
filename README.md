@@ -36,9 +36,9 @@
 <br />
 <br />
 
-[![GH](./images/github-light.svg)](https://github.com/Siryu6#gh-dark-mode-only)
-[![GH](./images/github-dark.svg)](https://github.com/Siryu6#gh-light-mode-only)
-
+________
+[![GH](./images/github-dark.svg)](https://github.com/Siryu6#gh-dark-mode-only)
+[![GH](./images/github-light.svg)](https://github.com/Siryu6#gh-light-mode-only)
 <details>
   <summary>GitHub Stats</summary>
 
