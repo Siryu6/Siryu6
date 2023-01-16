@@ -8,7 +8,7 @@
 - I'm Application Security Engineer @[PayFit](https://payfit.com/) <img src="images/payfit.png" alt="payfit" width="15"/>
 - Passionate about It Security
 - I'm a Linux lover ! (I use <img src="images/arch.png" alt="Arch" width="15"/> btw !)
-- I learning and loving <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> [Rust](https://www.rust-lang.org/)
+- I'm learning and loving <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"> [Rust](https://www.rust-lang.org/)
 - I'm playing guitar in a deathcore band: [Deneb](https://www.deneb.band)
 
 ### Connect with me:
