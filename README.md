@@ -1,6 +1,6 @@
 # Hi there, I'm Guillaume - aka Siryu 👋 
 
-[![Website](https://img.shields.io/website?label=siryu.me&style=for-the-badge&url=https%3A%2F%2Fsiryu.fr)](https://siryu.me)
+[![Website](https://img.shields.io/website?label=siryu.me&style=for-the-badge&url=https%3A%2F%2Fsiryu.me)](https://siryu.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Siiiryu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSirryu&screen_name=Siiiryu)
 
 ## About me
