@@ -22,8 +22,8 @@
 [![website](./images/linkedin-light.svg)](https://linkedin.com/in/guillaume-grabé-5b5958a6/#gh-light-mode-only)
 [![website](./images/linkedin-dark.svg)](https://linkedin.com/in/guillaume-grabé-5b5958a6/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./images/instagram-light.svg)](https://www.instagram.com/deneb_siryu/#gh-light-mode-only)
-[![website](./images/instagram-dark.svg)](https://www.instagram.com/deneb_siryu/#gh-dark-mode-only)
+[![website](./images/instagram-light.svg)](https://www.instagram.com/guillaume_m.v/#gh-light-mode-only)
+[![website](./images/instagram-dark.svg)](https://www.instagram.com/guillaume_m.v/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -35,12 +35,3 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="padding-right:10px;">
 <br />
 <br />
-
-________
-[![GH](./images/github-dark.svg)](https://github.com/Siryu6#gh-dark-mode-only)
-[![GH](./images/github-light.svg)](https://github.com/Siryu6#gh-light-mode-only)
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="Siryu6's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Siryu6&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
